@@ -1,0 +1,1 @@
+export type TestStatus = "STATUS1" | "STATUS2" | "STATUS3";
